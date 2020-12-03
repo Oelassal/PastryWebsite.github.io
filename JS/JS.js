@@ -1,0 +1,1 @@
+document.getElementsByClassName("downbutton").onclick = smoothScroll.init();
